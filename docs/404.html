@@ -1,11 +1,12 @@
-
 <script>
     const path = window.location.pathname;
     console.log(window.location.pathname)
     localStorage.setItem('github_redirect', path);
     if (path.startsWith("/german")) {
-        window.location.href='/german';
+        window.location.href = '/german';
     } else if (path.startsWith("/minesweeper")) {
-        window.location.href='/minesweeper';
+        window.location.href = '/minesweeper';
+    } else if (path.startsWith("/blog")) {
+        window.location.href = '/blog';
     }
 </script>
