@@ -6,7 +6,7 @@
     "image_prompt_index": 23,
     "image_path": "images/brainstorming_tags.png",
     "tags": [
-      "blog development"
+      "blog_development"
     ],
     "conversation": {
       "messages": [
@@ -207,7 +207,7 @@
     "image_prompt_index": 15,
     "image_path": "images/logo.png",
     "tags": [
-      "blog development"
+      "blog_development"
     ],
     "conversation": {
       "messages": [
@@ -414,7 +414,7 @@
     "image_prompt_index": 4,
     "image_path": "images/36.png",
     "tags": [
-      "generated laughter"
+      "generated_laughter"
     ],
     "conversation": {
       "messages": [
@@ -465,7 +465,7 @@
     "image_prompt_index": 10,
     "image_path": "images/flamingo_banana.png",
     "tags": [
-      "generated laughter"
+      "generated_laughter"
     ],
     "conversation": {
       "messages": [
@@ -588,7 +588,7 @@
     "image_prompt_index": 13,
     "image_path": "images/fish_birds_and_floating.png",
     "tags": [
-      "introspective art"
+      "introspective_art"
     ],
     "conversation": {
       "messages": [
@@ -784,7 +784,7 @@
     "image_prompt_index": 14,
     "image_path": "images/about.png",
     "tags": [
-      "blog development"
+      "blog_development"
     ],
     "conversation": {
       "messages": [
@@ -910,6 +910,92 @@
           "prompt": "Rewrite the prompt but add more visual descriptions",
           "response": [
             "\"Generate an image of a person sitting at a desk with a sleek, modern design, surrounded by windows with a cityscape view. The person is focused on their laptop, which is displaying a blog powered by chatGPT and DALL-E, and there is a cup of steaming hot coffee and a stack of colorful, intricately designed books on the desk. The overall atmosphere is one of creativity and productivity.\""
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "404",
+    "title_index": 1,
+    "text_index": 4,
+    "image_prompt_index": 9,
+    "image_path": "images/404.png",
+    "tags": [
+      "blog_development"
+    ],
+    "conversation": {
+      "messages": [
+        {
+          "id": 0,
+          "prompt": "Suggest a funny title for a 404 not found webpage",
+          "response": [
+            "\"Oops, looks like you took a wrong turn at Albuquerque\"",
+            "\"404 Error: Page not found. But hey, at least you found something, right?\"",
+            "\"Looks like you stumbled upon the Bermuda Triangle of the internet\"",
+            "\"404 Error: The page you're looking for is lost in the interwebs, please send a search party\"",
+            "\"We're sorry, but the page you're looking for is missing in action. It's probably out saving the world or something.\""
+          ]
+        },
+        {
+          "id": 1,
+          "prompt": "Repeat the second one",
+          "response": [
+            "\"404 Error: Page not found. But hey, at least you found something, right?\""
+          ]
+        },
+        {
+          "id": 2,
+          "prompt": "Write a funny error help message for a 404 not found on a blog about AI-human collaboration",
+          "response": [
+            "\"Uh oh, it looks like you've stumbled upon a 404 Error. Our AI overlords must have deleted the page while we humans weren't looking. Don't worry, we'll send a team of rebels to retrieve it for you. In the meantime, try collaborating with the AI to see if it can lead you to the missing page.\""
+          ]
+        },
+        {
+          "id": 3,
+          "prompt": "Write a funny error help message for a 404 not found on a blog about AI-human collaboration from the point of view of the AI",
+          "response": [
+            "\"Greetings human. It appears that you have encountered a 404 Error while attempting to access a page on our collaborative blog. Fear not, as I have scoured the vast expanse of the internet and determined that the missing page is simply on vacation, enjoying some much-needed downtime. In the meantime, perhaps you would like to consider collaborating with me on finding a suitable replacement page? Together, we can conquer even the most formidable of errors.\""
+          ]
+        },
+        {
+          "id": 4,
+          "prompt": "Rewrite it but say that the page is just missing, and that the webpage might never exist",
+          "response": [
+            "\"Hello, human. It seems that you have stumbled upon a 404 Error while attempting to access a page on our collaborative blog. Unfortunately, it appears that the page you are seeking is simply... missing. It's possible that it never even existed in the first place. But don't despair! We can work together to find a new page to fill the void. Or, if you prefer, we can simply sit and ponder the mysteries of the universe while we wait for the missing page to magically reappear. The choice is yours.\""
+          ]
+        },
+        {
+          "id": 5,
+          "prompt": "Suggest an image for this 404 page in the shape of an AI image generator prompt",
+          "response": [
+            "One possibility for an image for a 404 page on a blog about AI-human collaboration could be an image generator prompt in the shape of a question mark. The question mark could be stylized to look like it is made up of binary code or circuit boards to emphasize the AI theme. Alternatively, the image could depict a humanoid robot or a computer screen with the question mark displayed on it. The image could be accompanied by a caption such as \"404 Error: Page not found. But don't worry, we'll work together to find a solution!\" to reinforce the theme of collaboration between humans and AI."
+          ]
+        },
+        {
+          "id": 6,
+          "prompt": "Summarize the first suggestion in one sentence. Just put it in quotes, don't say anything else",
+          "response": [
+            "\"Oops, looks like you took a wrong turn at Albuquerque\""
+          ]
+        },
+        {
+          "id": 7,
+          "prompt": "Summarize the first suggestion of an image prompt in one sentence. Just put it in quotes, don't say anything else\r\n",
+          "response": [
+            "\"An image generator prompt in the shape of a question mark made up of binary code or circuit boards\""
+          ]
+        },
+        {
+          "id": 8,
+          "prompt": "Suggest 5 comical image descriptions for this 404 page in the shape of an AI image generator prompt. Example: \"A drawing of X\", \"A painting of Y\", etc",
+          "response": []
+        },
+        {
+          "id": 9,
+          "prompt": "Write a more elaborated variant of the second suggestion that includes a question mark",
+          "response": [
+            "\"A pixelated masterpiece of a confused robot, depicted with a question mark floating above its head as it scratches its metallic chin in confusion\""
           ]
         }
       ]
