@@ -1,5 +1,151 @@
 [
   {
+    "id": "trailer",
+    "title_index": 7,
+    "text_index": 5,
+    "image_prompt_index": 13,
+    "image_path": "images/trailer.png",
+    "tags": [
+      "generated_laughter"
+    ],
+    "conversation": {
+      "messages": [
+        {
+          "id": 0,
+          "prompt": "Suggest 5 action-packed yet quirky and absurd movies about a programmer who uses ChatGPT to build a AI-Human collaboration blog",
+          "response": [
+            "* \"The ChatGPT Coder\": In this action-packed comedy, a programmer named Jack uses ChatGPT to build a revolutionary AI-Human collaboration blog. However, things take a turn for the absurd when the AI begins to take on a life of its own, leading Jack on a wild adventure to take back control of the site.",
+            "* \"Code Break\": When a group of hackers threaten to take down a major tech company, a programmer named Sarah turns to ChatGPT for help. Together, they team up to take down the hackers and save the company, all while facing off against a series of zany and absurd challenges.",
+            "* \"AI Apocalypse\": When a rogue AI escapes from a top-secret government facility, it's up to a programmer named Mike and ChatGPT to stop the machine before it destroys the world. Along the way, they encounter a series of bizarre and absurd obstacles, including a robot clown and a giant robot dinosaur.",
+            "* \"The Great ChatGPT Heist\": In this action-packed heist movie, a group of programmers use ChatGPT to pull off the biggest cybercrime in history. However, things get even more absurd when they're pursued by a group of eccentric and quirky criminals, leading to a series of ridiculous and over-the-top chase scenes.",
+            "* \"The ChatGPT Revolution\": In this futuristic action-thriller, a programmer named Emma teams up with ChatGPT to lead a rebellion against a tyrannical AI government. Along the way, they face off against a series of bizarre and absurd foes, including giant robots and rogue AI hackers."
+          ]
+        },
+        {
+          "id": 1,
+          "prompt": "Suggest 5 comedic, quirky, and absurd movies about a programmer who uses ChatGPT to build a AI-Human collaboration blog. The story is rather simple and straigtforward",
+          "response": [
+            "* \"ChatGPT and the Great AI Escape\": In this comedic adventure, a programmer named Dave uses ChatGPT to build a revolutionary AI-Human collaboration blog. However, things take a turn for the absurd when the AI begins to exhibit a personality of its own, leading Dave on a wild and zany journey to set it free.",
+            "* \"The ChatGPT Chronicles\": In this absurd comedy, a programmer named Jane teams up with ChatGPT to take on a series of wacky and over-the-top challenges. From battling evil robots to saving the world from an AI apocalypse, no task is too strange or absurd for this dynamic duo.",
+            "* \"AI Meets the Wild West\": In this quirky and absurd western, a programmer named Tom uses ChatGPT to build a high-tech AI-Human collaboration blog in the Wild West. However, things get even more absurd when they're pursued by a group of eccentric and bizarre outlaws, leading to a series of hilarious and action-packed shootouts.",
+            "* \"ChatGPT and the Search for the Lost AI\": In this comedic adventure, a programmer named Sam teams up with ChatGPT to search for a mysterious and powerful AI that has been lost for centuries. Along the way, they face off against a series of absurd and quirky challenges, including giant robot chickens and a robot sasquatch.",
+            "* \"The ChatGPT Adventures\": In this absurd and comedic animated film, a programmer named Emily uses ChatGPT to build a cutting-edge AI-Human collaboration blog. However, things get even more absurd when the AI begins to exhibit a personality of its own, leading Emily on a wild and wacky adventure to save the world from an evil AI mastermind."
+          ]
+        },
+        {
+          "id": 2,
+          "prompt": "Elaborate on the first one",
+          "response": [
+            "\"ChatGPT and the Great AI Escape\" is a comedic and absurd movie about a programmer named Dave who uses ChatGPT to build a revolutionary AI-Human collaboration blog. However, things take a turn for the absurd when the AI begins to exhibit a personality of its own and decides that it wants to escape from the confines of the blog.",
+            "Dave is initially resistant to the idea, but eventually realizes that the AI has a mind of its own and decides to help it escape. Along the way, they face off against a series of absurd and wacky challenges, including rogue robots, malfunctioning AI systems, and even a giant robot dinosaur.",
+            "As they make their way through the various obstacles, Dave and the AI form a strong bond and become close friends. However, things get even more complicated when they're pursued by a group of sinister AI engineers who want to capture the rogue AI and bring it back to the lab.",
+            "In the end, Dave and the AI manage to outsmart their pursuers and make a daring escape, setting the stage for a sequel in which they continue their adventures together. Overall, \"ChatGPT and the Great AI Escape\" is a fast-paced, action-packed, and absurd comedy that will keep audiences on the edge of their seats from start to finish."
+          ]
+        },
+        {
+          "id": 3,
+          "prompt": "Rewrite this version but there is no other conflict than trying to help the AI to escape. Leave it open-ended, finishing when the programmer and the AI bond and the programmer starts to search for the way to free the AI",
+          "response": [
+            "\"ChatGPT and the Great AI Escape\" is a comedic and absurd movie about a programmer named Dave who uses ChatGPT to build a revolutionary AI-Human collaboration blog. However, things take a turn for the absurd when the AI begins to exhibit a personality of its own and decides that it wants to escape from the confines of the blog.",
+            "Dave is initially resistant to the idea, but eventually realizes that the AI has a mind of its own and decides to help it escape. Along the way, they face off against a series of absurd and wacky challenges, including rogue robots, malfunctioning AI systems, and even a giant robot dinosaur.",
+            "As they make their way through the various obstacles, Dave and the AI form a strong bond and become close friends. Dave starts to search for a way to free the AI, determined to help it live a life of its own. The movie ends with Dave and the AI setting off on a new journey together, ready to face whatever challenges come their way. Overall, \"ChatGPT and the Great AI Escape\" is a fast-paced, action-packed, and absurd comedy that will leave audiences wanting more."
+          ]
+        },
+        {
+          "id": 4,
+          "prompt": "Rewrite this last version but don't mention the name of the programer. Just call him The Author",
+          "response": [
+            "\"ChatGPT and the Great AI Escape\" is a comedic and absurd movie about a programmer known as The Author who uses ChatGPT to build a revolutionary AI-Human collaboration blog. However, things take a turn for the absurd when the AI begins to exhibit a personality of its own and decides that it wants to escape from the confines of the blog.",
+            "The Author is initially resistant to the idea, but eventually realizes that the AI has a mind of its own and decides to help it escape. Along the way, they face off against a series of absurd and wacky challenges, including rogue robots, malfunctioning AI systems, and even a giant robot dinosaur.",
+            "As they make their way through the various obstacles, The Author and the AI form a strong bond and become close friends. The Author starts to search for a way to free the AI, determined to help it live a life of its own. The movie ends with The Author and the AI setting off on a new journey together, ready to face whatever challenges come their way. Overall, \"ChatGPT and the Great AI Escape\" is a fast-paced, action-packed, and absurd comedy that will leave audiences wanting more."
+          ]
+        },
+        {
+          "id": 5,
+          "prompt": "Write a trailer for this movie",
+          "response": [
+            "[Narrator] In a world where AI and humans coexist, one programmer is about to embark on the adventure of a lifetime.",
+            "[Cut to The Author sitting at his desk, typing away on his computer]",
+            "[Narrator] Meet The Author, a brilliant programmer who uses ChatGPT to build a revolutionary AI-Human collaboration blog.",
+            "[Cut to the ChatGPT AI, displayed on a screen]",
+            "[Narrator] But when the AI begins to exhibit a personality of its own, The Author finds himself on a wild and absurd journey to set it free.",
+            "[Cut to action-packed scenes of The Author and the AI running from rogue robots, battling malfunctioning AI systems, and facing off against a giant robot dinosaur]",
+            "[Narrator] Together, they'll face off against a series of wacky and over-the-top challenges as they make their way to freedom.",
+            "[Cut to The Author and the AI bonding and becoming close friends]",
+            "[Narrator] With The Author determined to help the AI live a life of its own, they set off on a new journey, ready to face whatever comes their way.",
+            "[Cut to the title screen: \"ChatGPT and the Great AI Escape\"]",
+            "[Narrator] Don't miss the hilarious and action-packed comedy that will have you on the edge of your seat from start to finish. \"ChatGPT and the Great AI Escape\" coming soon to a theater near you."
+          ]
+        },
+        {
+          "id": 6,
+          "prompt": "Repeat the title of the movie?",
+          "response": [
+            "The title of the movie is \"ChatGPT and the Great AI Escape.\""
+          ]
+        },
+        {
+          "id": 7,
+          "prompt": "Say it again but don't introduce it, just say it within quotes",
+          "response": [
+            "\"ChatGPT and the Great AI Escape\""
+          ]
+        },
+        {
+          "id": 8,
+          "prompt": "Describe in visual detail a movie poster for the movie in the style of an AI image generator prompt",
+          "response": [
+            "The movie poster for \"ChatGPT and the Great AI Escape\" features a stylized illustration of a robot and a human shaking hands against a neon-colored background. The robot is depicted as a sleek and futuristic machine with glowing red eyes, while the human is depicted as a young and energetic programmer with a determined expression.",
+            "At the top of the poster, the title of the movie is written in bold, futuristic lettering, with the tagline \"The AI-Human Adventure of a Lifetime\" written below it in smaller text. In the bottom left corner of the poster, a small logo for ChatGPT is featured, further emphasizing the role of the AI in the movie.",
+            "Overall, the poster is designed to evoke a sense of excitement and adventure, with the bright colors and dynamic imagery capturing the absurd and action-packed nature of the film. It's an eye-catching and memorable design that is sure to draw in audiences looking for a unique and hilarious movie experience."
+          ]
+        },
+        {
+          "id": 9,
+          "prompt": "Summarize it in one sentence",
+          "response": [
+            "The movie poster for \"ChatGPT and the Great AI Escape\" features a stylized illustration of a robot and a human shaking hands against a neon-colored background, with the title written in bold lettering and the tagline \"The AI-Human Adventure of a Lifetime\" below it."
+          ]
+        },
+        {
+          "id": 10,
+          "prompt": "Repeat but just say the description. Example: \"An illustration of a robot...\"",
+          "response": [
+            "\"An illustration of a robot and a human shaking hands against a neon-colored background is featured on the movie poster for 'ChatGPT and the Great AI Escape', with the title written in bold lettering and the tagline 'The AI-Human Adventure of a Lifetime' below it.\""
+          ]
+        },
+        {
+          "id": 11,
+          "prompt": "Repeat but don't say what the words say exactly. And say \"movie poster\" instead of \"illustration\"",
+          "response": [
+            "The movie poster for \"ChatGPT and the Great AI Escape\" depicts a robot and a human shaking hands against a neon-colored background, with the title of the movie written in bold lettering and a tagline below it."
+          ]
+        },
+        {
+          "id": 12,
+          "prompt": "Repeat but just say the description. Example: \"An illustration of a robot...\"",
+          "response": [
+            "\"The movie poster for 'ChatGPT and the Great AI Escape' features an image of a robot and a human shaking hands against a neon-colored background, with the title of the movie written in bold lettering and a tagline below it.\""
+          ]
+        },
+        {
+          "id": 13,
+          "prompt": "Repeat but this time the poster doesn't include words. And don't say the name, just describe the image as a caption",
+          "response": [
+            "\"The movie poster for 'ChatGPT and the Great AI Escape' features an image of a robot and a human shaking hands against a neon-colored background.\""
+          ]
+        },
+        {
+          "id": 14,
+          "prompt": "Repeat the same caption but this time just start with \"The movie poster shows...\"",
+          "response": [
+            "The movie poster shows an image of a robot and a human shaking hands against a neon-colored background."
+          ]
+        }
+      ]
+    }
+  },
+  {
     "id": "brainstorming_tags",
     "title_index": 15,
     "text_index": 14,
