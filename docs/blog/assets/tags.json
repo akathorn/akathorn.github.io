@@ -10,5 +10,13 @@
   {
     "id": "introspective_art",
     "name": "introspective art"
+  },
+  {
+    "id": "song_inspired",
+    "name": "song-inspired musings"
+  },
+  {
+    "id": "bipolar_reflections",
+    "name": "bipolar reflections"
   }
 ]

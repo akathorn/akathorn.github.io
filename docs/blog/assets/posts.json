@@ -5,7 +5,10 @@
     "text_index": 5,
     "image_prompt_index": 13,
     "image_path": "images/trailer.png",
-    "tags": ["generated_laughter"],
+    "track_id": null,
+    "tags": [
+      "generated_laughter"
+    ],
     "conversation": {
       "messages": [
         {
@@ -85,7 +88,9 @@
         {
           "id": 7,
           "prompt": "Say it again but don't introduce it, just say it within quotes",
-          "response": ["\"ChatGPT and the Great AI Escape\""]
+          "response": [
+            "\"ChatGPT and the Great AI Escape\""
+          ]
         },
         {
           "id": 8,
@@ -142,12 +147,373 @@
     }
   },
   {
+    "id": "ECT",
+    "title_index": 7,
+    "text_index": 3,
+    "image_prompt_index": 16,
+    "image_path": "images/ECT.png",
+    "track_id": null,
+    "tags": [
+      "introspective_art",
+      "bipolar_reflections"
+    ],
+    "conversation": {
+      "messages": [
+        {
+          "id": 0,
+          "prompt": "\"I did electroconvulsive therapy a few times per week for a month or so, but since my memory was partially erased I can remember very little of that time. But the same scene repeated each time, so I remember how it went. I was always very calm and determined.\r\nI would come in early in the morning, find my way through the corridors to the basement, and enter the main room. At the far end, there was a door that led into\u2026 The place where it happens, I don\u2019t know how they called it. There were several people bustling around, and I would be invited to lie on a bed in the very center of the room. I would take my boots off carefully, and somehow it always made me feel very awkward to leave them there by the bed, abandoned and in the middle of the bustling scene.\r\nIt was a strange feeling to be \u201ctaken care of\u201d in this way: there was someone putting on blood pressure and pulse sensors on my left arm, someone inserting a needle on my right arm, and someone putting electrodes on my head. Soon after starting this process, I would be given a mask and told to hold it to my face and breathe deep. Eventually, someone would take hold of it again and tell me to let go of it. I soon learned that this was the sign that I was about to go under.\r\nWithout any other warning whatsoever, I would feel like the room was falling upwards, leaving me below, laying still on the bed. I feel like I was going away while staying completely still. Then a comfortable darkness and nothingness would envelop me. It was a lovely feeling.\r\nLater I would be awakened in the recovery room by a kind and friendly middle-aged nurse. It felt so odd to wake up in a different place than where I fell asleep. But oddly, my boots were still next to the bed.\u201d\r\n\r\nThe story ends there, we don\u2019t know if the therapy was successful or not.\r\n\r\nWrite a story inspired by this in 600 words\r\n",
+          "response": [
+            "It had been a long and difficult road to get to this point. Sarah had struggled with depression and anxiety for as long as she could remember, and she had tried every treatment under the sun. She had been on every antidepressant on the market, and had gone through countless therapy sessions, but nothing seemed to help. So, when her doctor suggested electroconvulsive therapy, Sarah was desperate enough to give it a try.",
+            "She arrived at the hospital early in the morning, feeling a mix of nerves and determination. She found her way to the basement, and entered the main room. At the far end, there was a door that led to the place where the therapy would take place. Sarah's heart pounded in her chest as she approached the bed in the center of the room. She took off her boots carefully, feeling a strange sense of awkwardness as she left them by the bed.",
+            "The procedure began almost immediately. Sarah lay on the bed as the medical staff attached sensors to her arms and electrodes to her head. She was given a mask to hold to her face and told to breathe deeply. Sarah did as she was told, focusing on the sound of her own breathing as the room bustled around her.",
+            "And then, without warning, everything went black. Sarah felt as if the room was falling away from her, leaving her behind on the bed. She was aware of a comfortable darkness enveloping her, and then nothingness.",
+            "When Sarah woke up, she was in the recovery room. A kind and friendly middle-aged nurse was there to greet her. It was odd to wake up in a different place than where she had fallen asleep, but Sarah's boots were still next to the bed.",
+            "Over the next few weeks, Sarah underwent electroconvulsive therapy several times a week. Each time, she felt the same sense of calm and determination. She knew that the therapy was not an easy road, but she was willing to do whatever it took to feel better.",
+            "And, to her surprise, it seemed to be working. Sarah's mood began to lift, and she felt more energetic and focused. She still had her ups and downs, but they were not as extreme as they had been before.",
+            "Sarah continued with the therapy for several months, until she and her doctor felt that she was ready to try living without it. It was a scary thought, but Sarah was determined to give it a try.",
+            "And it turned out that she was ready. She was able to cope with the ups and downs of life, and she felt more in control of her emotions. She still had bad days, but she was better equipped to handle them.",
+            "Sarah was grateful to the electroconvulsive therapy for helping her get her life back on track. It had not been an easy journey, but it had been worth it. And she was grateful to the kind and friendly nurse who had helped her through it all."
+          ]
+        },
+        {
+          "id": 1,
+          "prompt": "Rewrite the story but this time the therapy doesn't work, and Sarah has to move on",
+          "response": [
+            "It had been a long and difficult road to get to this point. Sarah had struggled with depression and anxiety for as long as she could remember, and she had tried every treatment under the sun. She had been on every antidepressant on the market, and had gone through countless therapy sessions, but nothing seemed to help. So, when her doctor suggested electroconvulsive therapy, Sarah was desperate enough to give it a try.",
+            "She arrived at the hospital early in the morning, feeling a mix of nerves and determination. She found her way to the basement, and entered the main room. At the far end, there was a door that led to the place where the therapy would take place. Sarah's heart pounded in her chest as she approached the bed in the center of the room. She took off her boots carefully, feeling a strange sense of awkwardness as she left them by the bed.",
+            "The procedure began almost immediately. Sarah lay on the bed as the medical staff attached sensors to her arms and electrodes to her head. She was given a mask to hold to her face and told to breathe deeply. Sarah did as she was told, focusing on the sound of her own breathing as the room bustled around her.",
+            "And then, without warning, everything went black. Sarah felt as if the room was falling away from her, leaving her behind on the bed. She was aware of a comfortable darkness enveloping her, and then nothingness.",
+            "When Sarah woke up, she was in the recovery room. A kind and friendly middle-aged nurse was there to greet her. It was odd to wake up in a different place than where she had fallen asleep, but Sarah's boots were still next to the bed.",
+            "Over the next few weeks, Sarah underwent electroconvulsive therapy several times a week. Each time, she hoped that it would work, but unfortunately, it did not. Sarah's mood remained low, and she struggled to find the energy and motivation to do even the simplest tasks.",
+            "Despite her best efforts, Sarah was unable to benefit from the therapy. She was devastated, and felt like she had run out of options. But she knew that she had to keep trying.",
+            "Sarah began to explore other treatments, including alternative therapies like acupuncture and meditation. She also started seeing a new therapist who specialized in depression and anxiety. Slowly but surely, Sarah began to make progress.",
+            "It was a long and difficult journey, but Sarah was eventually able to find the help that she needed. She was grateful to the electroconvulsive therapy for at least trying to help, but she knew that it was not the right treatment for her. She moved on, and found the strength and resilience to keep going."
+          ]
+        },
+        {
+          "id": 2,
+          "prompt": "Rewrite the story, but it ends after \"But she knew that she had to keep trying.\"",
+          "response": [
+            "It had been a long and difficult road to get to this point. Sarah had struggled with depression and anxiety for as long as she could remember, and she had tried every treatment under the sun. She had been on every antidepressant on the market, and had gone through countless therapy sessions, but nothing seemed to help. So, when her doctor suggested electroconvulsive therapy, Sarah was desperate enough to give it a try.",
+            "She arrived at the hospital early in the morning, feeling a mix of nerves and determination. She found her way to the basement, and entered the main room. At the far end, there was a door that led to the place where the therapy would take place. Sarah's heart pounded in her chest as she approached the bed in the center of the room. She took off her boots carefully, feeling a strange sense of awkwardness as she left them by the bed.",
+            "The procedure began almost immediately. Sarah lay on the bed as the medical staff attached sensors to her arms and electrodes to her head. She was given a mask to hold to her face and told to breathe deeply. Sarah did as she was told, focusing on the sound of her own breathing as the room bustled around her.",
+            "And then, without warning, everything went black. Sarah felt as if the room was falling away from her, leaving her behind on the bed. She was aware of a comfortable darkness enveloping her, and then nothingness.",
+            "When Sarah woke up, she was in the recovery room. A kind and friendly middle-aged nurse was there to greet her. It was odd to wake up in a different place than where she had fallen asleep, but Sarah's boots were still next to the bed.",
+            "Over the next few weeks, Sarah underwent electroconvulsive therapy several times a week. Each time, she hoped that it would work, but unfortunately, it did not. Sarah's mood remained low, and she struggled to find the energy and motivation to do even the simplest tasks.",
+            "Despite her best efforts, Sarah was unable to benefit from the therapy. She was devastated, and felt like she had run out of options. But she knew that she had to keep trying."
+          ]
+        },
+        {
+          "id": 3,
+          "prompt": "Rewrite the last version of the story but in more length, including visual descriptions. And include the fact that they put a needle in her arm",
+          "response": [
+            "It had been a long and difficult road to get to this point. Sarah had struggled with depression and anxiety for as long as she could remember, and she had tried every treatment under the sun. She had been on every antidepressant on the market, and had gone through countless therapy sessions, but nothing seemed to help. So, when her doctor suggested electroconvulsive therapy, Sarah was desperate enough to give it a try.",
+            "As she walked through the hospital corridors, Sarah tried to calm her racing thoughts. She had heard that electroconvulsive therapy could be effective, but she also knew that it was a risky and invasive procedure. She wasn't sure if she was ready for it.",
+            "But Sarah knew that she had to try something. She had been struggling for too long, and she was tired of feeling so helpless and hopeless. So, with a deep breath, she made her way to the basement where the therapy would take place.",
+            "The room was a hive of activity, with medical staff rushing about and preparing for the procedure. Sarah was led to the bed in the center of the room, and she took off her boots with shaky hands. She felt a strange sense of awkwardness as she left them by the bed, abandoned and in the middle of the bustling scene.",
+            "As Sarah lay on the bed, the medical staff began to attach sensors to her arms and electrodes to her head. Sarah closed her eyes, trying to focus on her own breathing. She could feel a needle being inserted into her right arm, and she flinched at the sudden pain.",
+            "And then, without warning, everything went black. Sarah felt as if the room was falling away from her, leaving her behind on the bed. She was aware of a comfortable darkness enveloping her, and then nothingness.",
+            "When Sarah woke up, she was in the recovery room. A kind and friendly middle-aged nurse was there to greet her. It was odd to wake up in a different place than where she had fallen asleep, but Sarah's boots were still next to the bed.",
+            "Over the next few weeks, Sarah underwent electroconvulsive therapy several times a week. Each time, she hoped that it would work, but unfortunately, it did not. Sarah's mood remained low, and she struggled to find the energy and motivation to do even the simplest tasks.",
+            "Despite her best efforts, Sarah was unable to benefit from the therapy. She was devastated, and felt like she had run out of options. But she knew that she had to keep trying."
+          ]
+        },
+        {
+          "id": 4,
+          "prompt": "Suggest a title for the scene",
+          "response": [
+            "\"Electroconvulsive Therapy: A Desperate Attempt at Healing\""
+          ]
+        },
+        {
+          "id": 5,
+          "prompt": "Suggest another title, more metaphorical",
+          "response": [
+            "\"The Fall into the Unknown: A Journey through Electroconvulsive Therapy\""
+          ]
+        },
+        {
+          "id": 6,
+          "prompt": "Suggest a variant of the last title",
+          "response": [
+            "\"Plunging into the Abyss: Electroconvulsive Therapy and the Search for Healing\""
+          ]
+        },
+        {
+          "id": 7,
+          "prompt": "Suggest a version of the last title that includes Sarah's name",
+          "response": [
+            "\"Sarah's Descent into the Unknown: Electroconvulsive Therapy and the Quest for Healing\""
+          ]
+        },
+        {
+          "id": 8,
+          "prompt": "Suggest the caption of an image that represents and summarizes the story",
+          "response": [
+            "\"Sarah faces her fears as she undergoes electroconvulsive therapy in search of relief from her depression and anxiety.\""
+          ]
+        },
+        {
+          "id": 9,
+          "prompt": "Describe visually and in detail an image that represents the story",
+          "response": [
+            "The image shows a hospital room with a single bed in the center. Sarah is lying on the bed, her eyes closed and her face tense with anxiety. Medical staff bustle around her, attaching sensors to her arms and electrodes to her head. One staff member is inserting a needle into Sarah's right arm, while another is holding a mask to her face. Sarah's boots are discarded by the bed, adding to the sense of vulnerability and helplessness. The room is filled with medical equipment and monitors, creating a sense of clinical detachment. Despite the chaos and activity, Sarah appears serene and determined, as if she is preparing to embark on a journey into the unknown."
+          ]
+        },
+        {
+          "id": 10,
+          "prompt": "Summarize the image in one sentence",
+          "response": [
+            "Sarah undergoes electroconvulsive therapy in a clinical hospital room surrounded by medical staff, with the hope of finding relief from her depression and anxiety."
+          ]
+        },
+        {
+          "id": 11,
+          "prompt": "Summarize the visually detailed image description from 2 messages ago in one sentence",
+          "response": [
+            "Sarah undergoes electroconvulsive therapy in a hospital room, with medical staff attaching sensors, electrodes, and a needle, and Sarah appears serene and determined amidst the chaos and activity."
+          ]
+        },
+        {
+          "id": 12,
+          "prompt": "Suggest an image caption for an abstract painting that includes Sarah's boots and electrodes",
+          "response": [
+            "\"Sarah's boots and electrodes: A symbol of her journey through electroconvulsive therapy\""
+          ]
+        },
+        {
+          "id": 13,
+          "prompt": "Describe visually an abstract painting that includes Sarah's boots and electrodes",
+          "response": [
+            "The abstract painting is a vibrant mix of colors and shapes, with swirling lines and bold brushstrokes. In the center of the canvas, two dark shapes stand out against the bright background: Sarah's boots and a pair of electrodes. The boots are rendered in shades of brown and black, with the laces tangled and twisted in a chaotic pattern. The electrodes are depicted in metallic silver, with wires snaking out in all directions. The boots and electrodes are surrounded by a halo of light, as if they are the center of attention. The rest of the painting is a blur of color and movement, with brushstrokes and lines swirling around the boots and electrodes. The overall effect is chaotic and intense, reflecting the emotions and experiences of Sarah as she undergoes electroconvulsive therapy."
+          ]
+        },
+        {
+          "id": 14,
+          "prompt": "Summarize this in two sentences",
+          "response": [
+            "The abstract painting depicts Sarah's boots and electrodes in the center, surrounded by a halo of light and surrounded by a chaotic and intense background. The painting reflects the emotions and experiences of Sarah as she undergoes electroconvulsive therapy."
+          ]
+        },
+        {
+          "id": 15,
+          "prompt": "Give a different summary in one sentence",
+          "response": [
+            "The painting captures the energy and intensity of Sarah's journey through electroconvulsive therapy, with her boots and electrodes serving as a symbol of her struggles and determination."
+          ]
+        },
+        {
+          "id": 16,
+          "prompt": "Describe visually in two sentences an abstract painting that includes Sarah's boots and electrodes",
+          "response": [
+            "The painting is a blur of color and movement, with bold brushstrokes and swirling lines. Sarah's boots and electrodes stand out in the center of the canvas, rendered in dark shades and surrounded by a halo of light."
+          ]
+        },
+        {
+          "id": 17,
+          "prompt": "Rewrite the last description, but instead of electrodes choose another element from the story",
+          "response": [
+            "The painting is a blur of color and movement, with bold brushstrokes and swirling lines. The needle that was inserted into Sarah's arm stands out in the center of the canvas, rendered in metallic silver and surrounded by a halo of light."
+          ]
+        },
+        {
+          "id": 18,
+          "prompt": "Give another description but this time include the boots and another element from the story",
+          "response": [
+            "The painting is a blur of color and movement, with bold brushstrokes and swirling lines. Sarah's boots stand out in the center of the canvas, rendered in dark shades and surrounded by a halo of light. The mask that Sarah was told to hold to her face is also depicted in the painting, floating nearby and adding to the sense of medical intervention and vulnerability."
+          ]
+        },
+        {
+          "id": 19,
+          "prompt": "Write a similar description, but only include visual elements and not their interpretation, or feelings, or anything subjective. A short example would be: \"An abstract painting of dark boots and a mask\"",
+          "response": [
+            "An abstract painting of dark boots and a metallic needle."
+          ]
+        },
+        {
+          "id": 20,
+          "prompt": "Write a longer visual description like that one, but involving the boots and an oxygen mask",
+          "response": [
+            "An abstract painting of dark boots and an oxygen mask in shades of green and white."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "be_here_now",
+    "title_index": 13,
+    "text_index": 4,
+    "image_prompt_index": 16,
+    "image_path": "images/be_here_now.png",
+    "track_id": "https://open.spotify.com/track/3AXIwRc58U5rUUOMWHjL9F?si=57f6f44d68504980",
+    "tags": [
+      "introspective_art",
+      "song_inspired"
+    ],
+    "conversation": {
+      "messages": [
+        {
+          "id": 0,
+          "prompt": "What are the lyrics of Be Here Now from Mr. Gnome?",
+          "response": [
+            "I'm sorry, but I don't have information on the lyrics of the song \"Be Here Now\" by Mr. Gnome. Could you provide more context or clarify your question?"
+          ]
+        },
+        {
+          "id": 1,
+          "prompt": "Here are the lyrics of the song Be Here Now form Mr. Gnome, summarize it:\r\n\r\nWon't I be something today\r\nI look up at the starry light\r\nWon't you feel it one more time\r\nI leave you all and all alive well\r\nI'm in love\r\nFall down tell me are you honestly\r\nStill found living on the edge the sea\r\nI wait calling you every day\r\nI know I know I know I know I know\r\nOh love tell me where you wanna go\r\nI'm higher than I been before\r\nI wait believing you on now\r\nOver and over and over and over\r\nAnd oh love where you wanna be\r\nI feel you wash over me\r\nOh love where you wanna go\r\nHigher and higher and higher and oh\r\nOh love who you wanna be\r\nThese colors wash over me\r\nOh love where you wanna go\r\nHigher and higher and higher and oh\r\nDon't even get me started\r\nNow you turn around\r\nI wanna be in love and not be in low\r\nDon't even get me started\r\nWanna feel it out\r\nI wanna be your all\r\nI wanna be here now\r\nI wanna feel you start\r\nWanna let it out\r\nI wanna feel alive\r\nBefore I lose control\r\nI wanna be your light\r\nWanna make you whole\r\nNow feel alive I wanna lose control\r\nWon't I be something today\r\nI look up at the starry light\r\nWon't you feel it one more time\r\nI leave you all and all alive\r\nI'm in love\r\nBack down tell me who you wanna be\r\nSome day I know you and you know me\r\nThis weight follows you all around\r\nI know I know I know I know I know\r\nOh love tell me who you were before\r\nThis dream echoing through the door\r\nI'll be leading you on now\r\nOver and over and over and over\r\nAnd oh love where you wanna be\r\nI feel you wash over me\r\nOh love where you wanna go\r\nHigher and higher and higher and oh\r\nOh love who you wanna be\r\nThese colors wash over me\r\nOh love where you wanna go\r\nHigher and higher and higher and oh\r\nDon't even get me started\r\nNow you turn around\r\nI wanna be in love and not be in low\r\nDon't even get me started\r\nWanna feel it out\r\nI wanna be your all\r\nI wanna be here now\r\nI wanna feel you start\r\nWanna let it out\r\nI wanna feel alive\r\nBefore I lose control\r\nI wanna be your light\r\nWanna make you whole\r\nNow I feel alive I wanna lose control\r\nWanna give me your love give me your love\r\nGive me your love give me your love\r\nGive me your love give me your love\r\nGive me your love give me your love\r\nRunning I'm running I'm running away\r\nUpside down the middle\r\nRunning I'm running I'm running away\r\nUpside down the middle\r\nRunning I'm running I'm running away\r\nUpside down the middle\r\nRunning I'm running I'm running away\r\nUpside down the middle\r\nDon't even get me started\r\nNow you turn around\r\nI wanna be in love and not be in low\r\nDon't even get me started\r\nWanna feel it out\r\nI wanna be your all\r\nI wanna be here now\r\nI wanna feel you start\r\nWanna let it out\r\nI wanna feel alive\r\nBefore I lose control\r\nI wanna be your light\r\nWanna make you whole\r\nNow feel alive I wanna lose control\r\nOh yeah it drives you wild\r\nYou know I drive you wild\r\nOh yeah it drives you wild\r\nYou know I drive you wild\r\nOh yeah it drives you wild\r\nYou know I drive you wild",
+          "response": [
+            "The lyrics of the song \"Be Here Now\" by Mr. Gnome seem to describe a desire for connection and intimacy with another person. The singer expresses a longing to be close to the person and to feel alive and in love. The song also mentions the idea of running away and being upside down, potentially suggesting a feeling of being lost or disoriented. The singer also repeats the phrase \"give me your love\" and mentions that their love drives the other person wild. Overall, the lyrics convey a sense of yearning and passion."
+          ]
+        },
+        {
+          "id": 2,
+          "prompt": "Write a short story inspired on the lyrics",
+          "response": [
+            "As the sun set over the city, Emily stood on the rooftop, gazing up at the starry sky. She couldn't help but feel a sense of longing and desire as she thought about the person she had been in love with for so long.",
+            "\"Won't I be something today?\" she whispered to herself. \"I look up at the starry light. Won't you feel it one more time?\"",
+            "She closed her eyes and let the cool breeze wash over her, trying to find the courage to reach out and make a connection. She had always been afraid of being hurt, but this time, she was determined to take the risk.",
+            "\"I leave you all and all alive well,\" she sang softly. \"I'm in love.\"",
+            "As she opened her eyes and looked out over the city, she knew that she had to be brave and follow her heart. She was tired of feeling lost and alone, and she wanted to find the person who made her feel alive.",
+            "\"Oh love, tell me where you wanna go,\" she sang. \"I'm higher than I've been before. I wait, believing you on now, over and over and over and over.\"",
+            "With a deep breath, Emily closed her eyes and let the music and the love inside her guide her. She knew that she had to let go of her fear and embrace the possibility of finding happiness and connection with someone else.",
+            "\"I wanna be your all,\" she sang as she opened her eyes and stepped forward into the unknown. \"I wanna be here now. I wanna feel you start. Wanna let it out. I wanna feel alive. Before I lose control. I wanna be your light. Wanna make you whole. Now feel alive, I wanna lose control.\""
+          ]
+        },
+        {
+          "id": 3,
+          "prompt": "Write another version, include more visual imagery",
+          "response": [
+            "As the moon rose high above the city, Jake stood on the rooftop, gazing up at the twinkling stars. He couldn't shake the feeling that he was meant for something more, that there was someone out there who could understand him and make him feel alive.",
+            "\"Won't I be something today?\" he whispered to himself. \"I look up at the starry light. Won't you feel it one more time?\"",
+            "He closed his eyes and let the cool breeze ruffle his hair, trying to find the courage to reach out and make a connection. He had always been afraid of being vulnerable, but this time, he was determined to take the risk.",
+            "\"I leave you all and all alive well,\" he sang softly. \"I'm in love.\"",
+            "As he opened his eyes and looked out over the city, he knew that he had to be brave and follow his heart. He was tired of feeling lost and alone, and he wanted to find the person who made him feel alive.",
+            "\"Oh love, tell me where you wanna go,\" he sang. \"I'm higher than I've been before. I wait, believing you on now, over and over and over and over.\"",
+            "With a deep breath, Jake closed his eyes and let the music and the love inside him guide him. He knew that he had to let go of his fear and embrace the possibility of finding happiness and connection with someone else.",
+            "He could see it all in his mind's eye - the two of them dancing together under the stars, their hearts beating as one, their laughter and love filling the night sky.",
+            "\"I wanna be your all,\" he sang as he opened his eyes and stepped forward into the unknown. \"I wanna be here now. I wanna feel you start. Wanna let it out. I wanna feel alive. Before I lose control. I wanna be your light. Wanna make you whole. Now feel alive, I wanna lose control.\"",
+            "With a smile on his lips and hope in his heart, Jake reached out his hand and let the music guide him towards his future."
+          ]
+        },
+        {
+          "id": 4,
+          "prompt": "Tell the last story, but the character is Emily and it ends with her taking a step and jumping off the rooftop",
+          "response": [
+            "As the moon rose high above the city, Emily stood on the rooftop, gazing up at the twinkling stars. She couldn't shake the feeling that she was meant for something more, that there was someone out there who could understand her and make her feel alive.",
+            "\"Won't I be something today?\" she whispered to herself. \"I look up at the starry light. Won't you feel it one more time?\"",
+            "She closed her eyes and let the cool breeze ruffle her hair, trying to find the courage to reach out and make a connection. She had always been afraid of being vulnerable, but this time, she was determined to take the risk.",
+            "\"I leave you all and all alive well,\" she sang softly. \"I'm in love.\"",
+            "As she opened her eyes and looked out over the city, she knew that she had to be brave and follow her heart. She was tired of feeling lost and alone, and she wanted to find the person who made her feel alive.",
+            "\"Oh love, tell me where you wanna go,\" she sang. \"I'm higher than I've been before. I wait, believing you on now, over and over and over and over.\"",
+            "With a deep breath, Emily closed her eyes and let the music and the love inside her guide her. She knew that she had to let go of her fear and embrace the possibility of finding happiness and connection with someone else.",
+            "She could see it all in her mind's eye - the two of them dancing together under the stars, their hearts beating as one, their laughter and love filling the night sky.",
+            "\"I wanna be your all,\" she sang as she opened her eyes and stepped forward onto the edge of the rooftop. \"I wanna be here now. I wanna feel you start. Wanna let it out. I wanna feel alive. Before I lose control. I wanna be your light. Wanna make you whole. Now feel alive, I wanna lose control.\"",
+            "With a smile on her lips and hope in her heart, Emily took a step forward and let herself fall off the edge of the rooftop, letting the music and the love inside her guide her towards her future."
+          ]
+        },
+        {
+          "id": 5,
+          "prompt": "Suggest a title for this conversation",
+          "response": [
+            "\"Finding Courage and Connection Through Music\""
+          ]
+        },
+        {
+          "id": 6,
+          "prompt": "Suggest a title for this story that includes the name and artist of the original song",
+          "response": [
+            "\"Be Here Now: A Love Story Inspired by Mr. Gnome\""
+          ]
+        },
+        {
+          "id": 7,
+          "prompt": "Write the same title, but add that Be Here Now is a song",
+          "response": [
+            "\"Be Here Now: A Song-Inspired Love Story by Mr. Gnome\""
+          ]
+        },
+        {
+          "id": 8,
+          "prompt": "Write the same title, but the song is by Mr. Gnome, not the story",
+          "response": [
+            "\"Mr. Gnome's \"Be Here Now\": A Song-Inspired Love Story\""
+          ]
+        },
+        {
+          "id": 9,
+          "prompt": "Rephrase it",
+          "response": [
+            "\"A Love Story Inspired by Mr. Gnome's Song \"Be Here Now\"\""
+          ]
+        },
+        {
+          "id": 10,
+          "prompt": "Make a slightly longer and more emotional version",
+          "response": [
+            "\"The Emotional Journey of Finding Love and Connection Through Mr. Gnome's Song \"Be Here Now\"\""
+          ]
+        },
+        {
+          "id": 11,
+          "prompt": "Make it shorter",
+          "response": [
+            "\"Finding Love Through Mr. Gnome's \"Be Here Now\"\""
+          ]
+        },
+        {
+          "id": 12,
+          "prompt": "Write another title that explains that this is a short story inspired by Mr. Gnome's song Be Here Now",
+          "response": [
+            "\"A Short Story Inspired by Mr. Gnome's \"Be Here Now\"\""
+          ]
+        },
+        {
+          "id": 13,
+          "prompt": "Write the same title but mention that it is a song",
+          "response": [
+            "\"A Short Story Inspired by the Song \"Be Here Now\" by Mr. Gnome\""
+          ]
+        },
+        {
+          "id": 14,
+          "prompt": "Describe the scene in visual detail, as if it was a painting",
+          "response": [
+            "As the moon rose high above the city, Emily stood on the rooftop, gazing up at the twinkling stars. The cool breeze ruffled her hair and blew her long, flowing dress around her legs. She was surrounded by the sparkling lights of the city below, and the air was filled with the sound of her soft singing.",
+            "She closed her eyes and let the music and the love inside her guide her. With a deep breath, she stepped forward onto the edge of the rooftop, her arms outstretched as if to embrace the night sky.",
+            "The scene was painted in shades of blue and silver, the moonlight casting a soft glow over everything. Emily's dress flowed around her like a river of light, and her hair was a halo of golden curls.",
+            "As she stood on the edge of the rooftop, ready to take the leap and follow her heart, the music and the love inside her seemed to lift her up and carry her forward. She was filled with a sense of hope and possibility, and she knew that she was meant for something more.",
+            "With a smile on her lips and hope in her heart, Emily let herself fall off the edge of the rooftop, letting the music and the love inside her guide her towards her future."
+          ]
+        },
+        {
+          "id": 15,
+          "prompt": "Summarize this painting in one line",
+          "response": [
+            "A woman stands on the edge of a rooftop, surrounded by twinkling stars and flowing dresses, ready to follow her heart and embrace her future."
+          ]
+        },
+        {
+          "id": 16,
+          "prompt": "Describe the painting in one line, but she is not wearing a dress",
+          "response": [
+            "A woman stands on the edge of a rooftop, surrounded by twinkling stars and flowing hair, ready to follow her heart and embrace her future."
+          ]
+        }
+      ]
+    }
+  },
+  {
     "id": "brainstorming_tags",
     "title_index": 15,
     "text_index": 14,
     "image_prompt_index": 23,
     "image_path": "images/brainstorming_tags.png",
-    "tags": ["blog_development"],
+    "track_id": null,
+    "tags": [
+      "blog_development"
+    ],
     "conversation": {
       "messages": [
         {
@@ -158,42 +524,58 @@
         {
           "id": 1,
           "prompt": "Create the name of a tag for AI generated posts that are funny",
-          "response": ["\"AI humor\""]
+          "response": [
+            "\"AI humor\""
+          ]
         },
         {
           "id": 2,
           "prompt": "Suggest a variant",
-          "response": ["\"AI comedy\""]
+          "response": [
+            "\"AI comedy\""
+          ]
         },
         {
           "id": 3,
           "prompt": "Suggest a variant that doesn't contain the word AI",
-          "response": ["\"Generated laughter\""]
+          "response": [
+            "\"Generated laughter\""
+          ]
         },
         {
           "id": 4,
           "prompt": "Create the name of a tag for posts related to building the website itself",
-          "response": ["\"Website development\""]
+          "response": [
+            "\"Website development\""
+          ]
         },
         {
           "id": 5,
           "prompt": "Suggest another variant, maybe reference the fact that it is AI generated and that there was a conversation",
-          "response": ["\"AI-generated website building\""]
+          "response": [
+            "\"AI-generated website building\""
+          ]
         },
         {
           "id": 6,
           "prompt": "Suggest the name of a tag for posts related to building the blog",
-          "response": ["\"Blog development\""]
+          "response": [
+            "\"Blog development\""
+          ]
         },
         {
           "id": 7,
           "prompt": "My favourite tags so far are \"Generated laughter\" and \"Blog development\". Suggest a tag for posts that are more artistic, thought-inducing, and abstract",
-          "response": ["\"Abstract expression\""]
+          "response": [
+            "\"Abstract expression\""
+          ]
         },
         {
           "id": 8,
           "prompt": "Suggest another one",
-          "response": ["\"Introspective art\""]
+          "response": [
+            "\"Introspective art\""
+          ]
         },
         {
           "id": 9,
@@ -254,7 +636,9 @@
         {
           "id": 15,
           "prompt": "Suggest a title for this diary entry",
-          "response": ["\"Brainstorming Blog Tags\""]
+          "response": [
+            "\"Brainstorming Blog Tags\""
+          ]
         },
         {
           "id": 16,
@@ -328,7 +712,10 @@
     "text_index": 25,
     "image_prompt_index": 15,
     "image_path": "images/logo.png",
-    "tags": ["blog_development"],
+    "track_id": null,
+    "tags": [
+      "blog_development"
+    ],
     "conversation": {
       "messages": [
         {
@@ -341,12 +728,16 @@
         {
           "id": 1,
           "prompt": "Generate a shorter version",
-          "response": ["\"Human-AI Collaboration: Short Posts\""]
+          "response": [
+            "\"Human-AI Collaboration: Short Posts\""
+          ]
         },
         {
           "id": 2,
           "prompt": "Generate another short title",
-          "response": ["\"AI-Human Fusion: Micro Blogs\""]
+          "response": [
+            "\"AI-Human Fusion: Micro Blogs\""
+          ]
         },
         {
           "id": 3,
@@ -529,13 +920,18 @@
     "text_index": 1,
     "image_prompt_index": 4,
     "image_path": "images/36.png",
-    "tags": ["generated_laughter"],
+    "track_id": null,
+    "tags": [
+      "generated_laughter"
+    ],
     "conversation": {
       "messages": [
         {
           "id": 0,
           "prompt": "Give me a random number between 1 and 50",
-          "response": ["36"]
+          "response": [
+            "36"
+          ]
         },
         {
           "id": 1,
@@ -549,7 +945,9 @@
         {
           "id": 2,
           "prompt": "Create a funny title for the poem",
-          "response": ["\"The Fabulous 36: A Ode to a Most Splendid Number\""]
+          "response": [
+            "\"The Fabulous 36: A Ode to a Most Splendid Number\""
+          ]
         },
         {
           "id": 3,
@@ -574,7 +972,10 @@
     "text_index": 3,
     "image_prompt_index": 10,
     "image_path": "images/flamingo_banana.png",
-    "tags": ["generated_laughter"],
+    "track_id": null,
+    "tags": [
+      "generated_laughter"
+    ],
     "conversation": {
       "messages": [
         {
@@ -659,7 +1060,9 @@
         {
           "id": 7,
           "prompt": "Tell me the third title without quotes or explanation",
-          "response": ["\"Flamingo's Fervent Fruit Feasting\""]
+          "response": [
+            "\"Flamingo's Fervent Fruit Feasting\""
+          ]
         },
         {
           "id": 8,
@@ -673,12 +1076,16 @@
         {
           "id": 9,
           "prompt": "Repeat the second title in quotes",
-          "response": ["\"Sunny's Sweet Obsession\""]
+          "response": [
+            "\"Sunny's Sweet Obsession\""
+          ]
         },
         {
           "id": 10,
           "prompt": "Repeat the second DALL-E prompt in quotes",
-          "response": ["\"A tropical flamingo with a love for bananas\""]
+          "response": [
+            "\"A tropical flamingo with a love for bananas\""
+          ]
         }
       ]
     }
@@ -689,7 +1096,10 @@
     "text_index": 7,
     "image_prompt_index": 13,
     "image_path": "images/fish_birds_and_floating.png",
-    "tags": ["introspective_art"],
+    "track_id": null,
+    "tags": [
+      "introspective_art"
+    ],
     "conversation": {
       "messages": [
         {
@@ -784,7 +1194,9 @@
         {
           "id": 8,
           "prompt": "Suggest a title for this story",
-          "response": ["\"Drifting Away\""]
+          "response": [
+            "\"Drifting Away\""
+          ]
         },
         {
           "id": 9,
@@ -881,7 +1293,10 @@
     "text_index": 5,
     "image_prompt_index": 14,
     "image_path": "images/about.png",
-    "tags": ["blog_development"],
+    "track_id": null,
+    "tags": [
+      "blog_development"
+    ],
     "conversation": {
       "messages": [
         {
@@ -949,7 +1364,7 @@
           "id": 6,
           "prompt": "Generate a title for this text",
           "response": [
-            "\"Exploring the World of Machine-Generated Content: A Look at ChatGPT and DALL-E\""
+            "\"Exploring the World of Machine-Generated Content: A Look at chatGPT and DALL-E\""
           ]
         },
         {
@@ -998,7 +1413,7 @@
           "id": 13,
           "prompt": "Generate a different title for the text",
           "response": [
-            "\"Uncovering the Magic of ChatGPT and DALL-E: A Blog Review\""
+            "\"Uncovering the Magic of chatGPT and DALL-E: A Blog Review\""
           ]
         },
         {
@@ -1017,7 +1432,10 @@
     "text_index": 4,
     "image_prompt_index": 9,
     "image_path": "images/404.png",
-    "tags": ["blog_development"],
+    "track_id": null,
+    "tags": [
+      "blog_development"
+    ],
     "conversation": {
       "messages": [
         {
