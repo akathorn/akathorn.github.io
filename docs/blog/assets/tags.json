@@ -1,22 +1,32 @@
 [
   {
     "id": "blog_development",
-    "name": "blog development"
+    "name": "blog development",
+    "description": "tag",
+    "image_path": "image.png"
   },
   {
     "id": "generated_laughter",
-    "name": "generated laughter"
+    "name": "generated laughter",
+    "description": "tag",
+    "image_path": "image.png"
   },
   {
     "id": "introspective_art",
-    "name": "introspective art"
+    "name": "introspective art",
+    "description": "tag",
+    "image_path": "image.png"
   },
   {
     "id": "song_inspired",
-    "name": "song-inspired musings"
+    "name": "song-inspired musings",
+    "description": "tag",
+    "image_path": "image.png"
   },
   {
     "id": "bipolar_reflections",
-    "name": "bipolar reflections"
+    "name": "bipolar reflections",
+    "description": "tag",
+    "image_path": "image.png"
   }
 ]
